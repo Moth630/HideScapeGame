@@ -1,0 +1,17 @@
+# Unity specific
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.sln
+*.unityproj
+*.tmproj
+*.log
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
